@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>286032108765-u3qulk73cdrc9r9fgg89d9ct2l38ibjt.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.286032108765-u3qulk73cdrc9r9fgg89d9ct2l38ibjt</string>
+	<key>API_KEY</key>
+	<string>AIzaSyALVXPEpvyTtNf7faJHcLaXUo2dSP8oNfk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>286032108765</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.battleBreGems</string>
+	<key>PROJECT_ID</key>
+	<string>wh40k-stratagems</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wh40k-stratagems.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:286032108765:ios:cd7ab69c429309b0a10f34</string>
+</dict>
+</plist>
